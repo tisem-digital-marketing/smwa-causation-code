@@ -55,7 +55,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 Deer, Lachlan. 2024. Social Media and Web Analytics: Causation and Randomization -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-causation-code"
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-researchdesign-2024,
+@misc{smwa-randomization-2024,
       title={"Social Media and Web Analytics: Causation and Randomization -- Code"},
       author={Lachlan Deer},
       year={2024},
