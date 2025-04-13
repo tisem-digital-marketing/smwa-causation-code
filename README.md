@@ -1,7 +1,7 @@
 # Social Media and Web Analytics: Causation and Randomization
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![lifecycle](https://img.shields.io/badge/version-2024-red.svg)]()
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![lifecycle](https://img.shields.io/badge/version-2025-red.svg)]()
 
 ## Instructions for Students (Before Coming to Class)
 
@@ -42,9 +42,9 @@ Install these packages **before** coming to class.
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2024-smwa)
+* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2025-smwa)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2024 edition](https://tisem-digital-marketing.github.io/2024-smwa)
+* Current Version: [2025 edition](https://tisem-digital-marketing.github.io/2025-smwa)
 
 ## License
 
@@ -52,13 +52,13 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Suggested Citation
 
-Deer, Lachlan. 2024. Social Media and Web Analytics: Causation and Randomization -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-causation-code"
+Deer, Lachlan. 2025. Social Media and Web Analytics: Causation and Randomization -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-causation-code"
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-randomization-2024,
+@misc{smwa-randomization-2025,
       title={"Social Media and Web Analytics: Causation and Randomization -- Code"},
       author={Lachlan Deer},
-      year={2024},
+      year={2025},
       url = "https://github.com/tisem-digital-marketing/smwa-causation-code"
 }
 ```
