@@ -1,6 +1,6 @@
 # Social Media and Web Analytics: Causation and Randomization
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2025-red.svg)]()
 
 ## Instructions for Students (Before Coming to Class)
